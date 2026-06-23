@@ -4,5 +4,4 @@ data/images/
 __pycache__/
 *.json
 models/
-logs/
 .env
