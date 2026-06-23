@@ -1,0 +1,8 @@
+venv/
+data/images/
+*.pyc
+__pycache__/
+*.json
+models/
+logs/
+.env
