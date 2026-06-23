@@ -1,0 +1,378 @@
+[
+  {
+    "id": 24037,
+    "gt_color": "Beige",
+    "gt_pattern": "Printed",
+    "pred_color": "Cream",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9453
+  },
+  {
+    "id": 2023,
+    "gt_color": "Grey",
+    "gt_pattern": "Printed",
+    "pred_color": "Navy Blue",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.955
+  },
+  {
+    "id": 6024,
+    "gt_color": "Green",
+    "gt_pattern": "Printed",
+    "pred_color": "Blue",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9605
+  },
+  {
+    "id": 33080,
+    "gt_color": "White",
+    "gt_pattern": "Printed",
+    "pred_color": "White",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9966
+  },
+  {
+    "id": 38601,
+    "gt_color": "Red",
+    "gt_pattern": "Printed",
+    "pred_color": "Red",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9997
+  },
+  {
+    "id": 5093,
+    "gt_color": "Black",
+    "gt_pattern": "Striped",
+    "pred_color": "Navy Blue",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9258
+  },
+  {
+    "id": 6216,
+    "gt_color": "Black",
+    "gt_pattern": "Printed",
+    "pred_color": "Black",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9839
+  },
+  {
+    "id": 13814,
+    "gt_color": "Blue",
+    "gt_pattern": "Printed",
+    "pred_color": "White",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9683
+  },
+  {
+    "id": 7962,
+    "gt_color": "Black",
+    "gt_pattern": "Printed",
+    "pred_color": "Black",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9941
+  },
+  {
+    "id": 10857,
+    "gt_color": "White",
+    "gt_pattern": "Striped",
+    "pred_color": "Orange",
+    "pred_pattern": "Striped",
+    "avg_conf": 0.9117
+  },
+  {
+    "id": 28468,
+    "gt_color": "Lavender",
+    "gt_pattern": "Printed",
+    "pred_color": "Pink",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9863
+  },
+  {
+    "id": 18237,
+    "gt_color": "Red",
+    "gt_pattern": "Solid",
+    "pred_color": "Red",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9531
+  },
+  {
+    "id": 7939,
+    "gt_color": "Black",
+    "gt_pattern": "Printed",
+    "pred_color": "Black",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9987
+  },
+  {
+    "id": 17277,
+    "gt_color": "Navy Blue",
+    "gt_pattern": "Printed",
+    "pred_color": "Navy Blue",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9446
+  },
+  {
+    "id": 19980,
+    "gt_color": "Yellow",
+    "gt_pattern": "Printed",
+    "pred_color": "Yellow",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9971
+  },
+  {
+    "id": 17276,
+    "gt_color": "Mustard",
+    "gt_pattern": "Printed",
+    "pred_color": "Yellow",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9933
+  },
+  {
+    "id": 7937,
+    "gt_color": "Green",
+    "gt_pattern": "Printed",
+    "pred_color": "Green",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9985
+  },
+  {
+    "id": 26303,
+    "gt_color": "Blue",
+    "gt_pattern": "Striped",
+    "pred_color": "Blue",
+    "pred_pattern": "Striped",
+    "avg_conf": 0.9349
+  },
+  {
+    "id": 14295,
+    "gt_color": "Black",
+    "gt_pattern": "Printed",
+    "pred_color": "Black",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9549
+  },
+  {
+    "id": 31574,
+    "gt_color": "Beige",
+    "gt_pattern": "Printed",
+    "pred_color": "Cream",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.955
+  },
+  {
+    "id": 17246,
+    "gt_color": "Navy Blue",
+    "gt_pattern": "Striped",
+    "pred_color": "Black",
+    "pred_pattern": "Striped",
+    "avg_conf": 0.9155
+  },
+  {
+    "id": 38606,
+    "gt_color": "White",
+    "gt_pattern": "Printed",
+    "pred_color": "White",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9991
+  },
+  {
+    "id": 14062,
+    "gt_color": "Grey",
+    "gt_pattern": "Striped",
+    "pred_color": "Purple",
+    "pred_pattern": "Striped",
+    "avg_conf": 0.9272
+  },
+  {
+    "id": 38808,
+    "gt_color": "Blue",
+    "gt_pattern": "Printed",
+    "pred_color": "Blue",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9966
+  },
+  {
+    "id": 13429,
+    "gt_color": "Maroon",
+    "gt_pattern": "Printed",
+    "pred_color": "Pink",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.967
+  },
+  {
+    "id": 33075,
+    "gt_color": "Blue",
+    "gt_pattern": "Striped",
+    "pred_color": "Blue",
+    "pred_pattern": "Striped",
+    "avg_conf": 0.9332
+  },
+  {
+    "id": 17282,
+    "gt_color": "Black",
+    "gt_pattern": "Printed",
+    "pred_color": "Black",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9918
+  },
+  {
+    "id": 19788,
+    "gt_color": "Green",
+    "gt_pattern": "Solid",
+    "pred_color": "Green",
+    "pred_pattern": "Solid",
+    "avg_conf": 0.9512
+  },
+  {
+    "id": 19786,
+    "gt_color": "Navy Blue",
+    "gt_pattern": "Solid",
+    "pred_color": "Navy Blue",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9276
+  },
+  {
+    "id": 24062,
+    "gt_color": "Navy Blue",
+    "gt_pattern": "Printed",
+    "pred_color": "Navy Blue",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9837
+  },
+  {
+    "id": 30650,
+    "gt_color": "Black",
+    "gt_pattern": "Printed",
+    "pred_color": "Black",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9837
+  },
+  {
+    "id": 21588,
+    "gt_color": "Grey",
+    "gt_pattern": "Solid",
+    "pred_color": "Blue",
+    "pred_pattern": "Solid",
+    "avg_conf": 0.9254
+  },
+  {
+    "id": 26950,
+    "gt_color": "Maroon",
+    "gt_pattern": "Printed",
+    "pred_color": "Maroon",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9628
+  },
+  {
+    "id": 32769,
+    "gt_color": "Blue",
+    "gt_pattern": "Printed",
+    "pred_color": "Navy Blue",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9465
+  },
+  {
+    "id": 19584,
+    "gt_color": "Grey",
+    "gt_pattern": "Striped",
+    "pred_color": "White",
+    "pred_pattern": "Striped",
+    "avg_conf": 0.9421
+  },
+  {
+    "id": 20000,
+    "gt_color": "White",
+    "gt_pattern": "Solid",
+    "pred_color": "White",
+    "pred_pattern": "Solid",
+    "avg_conf": 0.9388
+  },
+  {
+    "id": 14098,
+    "gt_color": "Blue",
+    "gt_pattern": "Printed",
+    "pred_color": "Blue",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9933
+  },
+  {
+    "id": 31543,
+    "gt_color": "Navy Blue",
+    "gt_pattern": "Striped",
+    "pred_color": "Navy Blue",
+    "pred_pattern": "Striped",
+    "avg_conf": 0.9583
+  },
+  {
+    "id": 5890,
+    "gt_color": "Green",
+    "gt_pattern": "Printed",
+    "pred_color": "Green",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.999
+  },
+  {
+    "id": 19112,
+    "gt_color": "Grey",
+    "gt_pattern": "Solid",
+    "pred_color": "Grey",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.8948
+  },
+  {
+    "id": 31586,
+    "gt_color": "Yellow",
+    "gt_pattern": "Printed",
+    "pred_color": "Yellow",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9976
+  },
+  {
+    "id": 6083,
+    "gt_color": "Pink",
+    "gt_pattern": "Printed",
+    "pred_color": "Pink",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9979
+  },
+  {
+    "id": 11777,
+    "gt_color": "Red",
+    "gt_pattern": "Printed",
+    "pred_color": "Red",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9975
+  },
+  {
+    "id": 18236,
+    "gt_color": "White",
+    "gt_pattern": "Solid",
+    "pred_color": "White",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9983
+  },
+  {
+    "id": 10065,
+    "gt_color": "Yellow",
+    "gt_pattern": "Printed",
+    "pred_color": "Yellow",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9616
+  },
+  {
+    "id": 14294,
+    "gt_color": "Black",
+    "gt_pattern": "Striped",
+    "pred_color": "Black",
+    "pred_pattern": "Striped",
+    "avg_conf": 0.9147
+  },
+  {
+    "id": 6085,
+    "gt_color": "White",
+    "gt_pattern": "Printed",
+    "pred_color": "White",
+    "pred_pattern": "Printed",
+    "avg_conf": 0.9996
+  }
+]

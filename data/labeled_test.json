@@ -1,0 +1,472 @@
+[
+  {
+    "id": 24037,
+    "image_path": "/content/images/labeled_test/24037.jpg",
+    "productDisplayName": "Locomotive Men Printed Beige T-shirt",
+    "attributes": {
+      "color": "Beige",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 2023,
+    "image_path": "/content/images/labeled_test/2023.jpg",
+    "productDisplayName": "ADIDAS Mens Chrome Graphic T-shirt",
+    "attributes": {
+      "color": "Grey",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 6024,
+    "image_path": "/content/images/labeled_test/6024.jpg",
+    "productDisplayName": "UCB Women's Boat Neck Chest Print Green T-shirt",
+    "attributes": {
+      "color": "Green",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 33080,
+    "image_path": "/content/images/labeled_test/33080.jpg",
+    "productDisplayName": "U.S. Polo Assn. Denim Co. Men Printed Cream T-Shirt",
+    "attributes": {
+      "color": "White",
+      "pattern": "Printed",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 38601,
+    "image_path": "/content/images/labeled_test/38601.jpg",
+    "productDisplayName": "Nike Men Printed Red T-shirt",
+    "attributes": {
+      "color": "Red",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 5093,
+    "image_path": "/content/images/labeled_test/5093.jpg",
+    "productDisplayName": "Wrangler Men's Champion Burnt Out Striper Black T-shirt",
+    "attributes": {
+      "color": "Black",
+      "pattern": "Striped",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 6216,
+    "image_path": "/content/images/labeled_test/6216.jpg",
+    "productDisplayName": "Lee Men's Printed Black T-shirt",
+    "attributes": {
+      "color": "Black",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 13814,
+    "image_path": "/content/images/labeled_test/13814.jpg",
+    "productDisplayName": "Proline Pack of 3 Printed T-shirts",
+    "attributes": {
+      "color": "Blue",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 7962,
+    "image_path": "/content/images/labeled_test/7962.jpg",
+    "productDisplayName": "Puma Men's Graphic Black Red T-shirt",
+    "attributes": {
+      "color": "Black",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 10857,
+    "image_path": "/content/images/labeled_test/10857.jpg",
+    "productDisplayName": "Wrangler Men Rider Striper Polo White T-Shirts",
+    "attributes": {
+      "color": "White",
+      "pattern": "Striped",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 28468,
+    "image_path": "/content/images/labeled_test/28468.jpg",
+    "productDisplayName": "Urban Yoga Women Printed Lavender T-shirt",
+    "attributes": {
+      "color": "Lavender",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 18237,
+    "image_path": "/content/images/labeled_test/18237.jpg",
+    "productDisplayName": "Manchester United Men Solid Red Tshirt",
+    "attributes": {
+      "color": "Red",
+      "pattern": "Solid",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 7939,
+    "image_path": "/content/images/labeled_test/7939.jpg",
+    "productDisplayName": "Puma Men's Graphic Optic Black Silver T-shirt",
+    "attributes": {
+      "color": "Black",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 17277,
+    "image_path": "/content/images/labeled_test/17277.jpg",
+    "productDisplayName": "U.S. Polo Assn. Men Printed Navy Blue Tshirt",
+    "attributes": {
+      "color": "Navy Blue",
+      "pattern": "Printed",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 19980,
+    "image_path": "/content/images/labeled_test/19980.jpg",
+    "productDisplayName": "United Colors of Benetton Men Printed Yellow TShirt",
+    "attributes": {
+      "color": "Yellow",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 17276,
+    "image_path": "/content/images/labeled_test/17276.jpg",
+    "productDisplayName": "U.S. Polo Assn. Men Printed Mustard Tshirt",
+    "attributes": {
+      "color": "Mustard",
+      "pattern": "Printed",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 7937,
+    "image_path": "/content/images/labeled_test/7937.jpg",
+    "productDisplayName": "Puma Men's Tech Graphic Green Black T-shirt",
+    "attributes": {
+      "color": "Green",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 26303,
+    "image_path": "/content/images/labeled_test/26303.jpg",
+    "productDisplayName": "Proline Men Blue Striped Polo T-shirt",
+    "attributes": {
+      "color": "Blue",
+      "pattern": "Striped",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 14295,
+    "image_path": "/content/images/labeled_test/14295.jpg",
+    "productDisplayName": "Classic Polo Men Printed pack of 3 Tshirts",
+    "attributes": {
+      "color": "Black",
+      "pattern": "Printed",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 31574,
+    "image_path": "/content/images/labeled_test/31574.jpg",
+    "productDisplayName": "Mark Taylor Men Printed Beige T-shirt",
+    "attributes": {
+      "color": "Beige",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 17246,
+    "image_path": "/content/images/labeled_test/17246.jpg",
+    "productDisplayName": "U.S. Polo Assn. Men Stripes Navy Blue Polo Tshirt",
+    "attributes": {
+      "color": "Navy Blue",
+      "pattern": "Striped",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 38606,
+    "image_path": "/content/images/labeled_test/38606.jpg",
+    "productDisplayName": "Nike Men Printed Boxed White T-shirt",
+    "attributes": {
+      "color": "White",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 14062,
+    "image_path": "/content/images/labeled_test/14062.jpg",
+    "productDisplayName": "Flying Machine Men Stripes Grey Polo Tshirts",
+    "attributes": {
+      "color": "Grey",
+      "pattern": "Striped",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 38808,
+    "image_path": "/content/images/labeled_test/38808.jpg",
+    "productDisplayName": "Music Men Blue Printed T-shirt",
+    "attributes": {
+      "color": "Blue",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 13429,
+    "image_path": "/content/images/labeled_test/13429.jpg",
+    "productDisplayName": "United Colors of Benetton Men Printed Maroon Tshirts",
+    "attributes": {
+      "color": "Maroon",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 33075,
+    "image_path": "/content/images/labeled_test/33075.jpg",
+    "productDisplayName": "U.S.Polo Assn. Men Blue & Orange Striped T-shirt",
+    "attributes": {
+      "color": "Blue",
+      "pattern": "Striped",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 17282,
+    "image_path": "/content/images/labeled_test/17282.jpg",
+    "productDisplayName": "U.S. Polo Assn. Men Printed Black Tshirt",
+    "attributes": {
+      "color": "Black",
+      "pattern": "Printed",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 19788,
+    "image_path": "/content/images/labeled_test/19788.jpg",
+    "productDisplayName": "U.S. Polo Assn. Men Solid Green Tshirt",
+    "attributes": {
+      "color": "Green",
+      "pattern": "Solid",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 19786,
+    "image_path": "/content/images/labeled_test/19786.jpg",
+    "productDisplayName": "U.S. Polo Assn. Men Solid Navy Blue Tshirt",
+    "attributes": {
+      "color": "Navy Blue",
+      "pattern": "Solid",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 24062,
+    "image_path": "/content/images/labeled_test/24062.jpg",
+    "productDisplayName": "Locomotive Men Navy Blue Printed T-shirt",
+    "attributes": {
+      "color": "Navy Blue",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 30650,
+    "image_path": "/content/images/labeled_test/30650.jpg",
+    "productDisplayName": "Nike Men Printed Black T-shirt",
+    "attributes": {
+      "color": "Black",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 21588,
+    "image_path": "/content/images/labeled_test/21588.jpg",
+    "productDisplayName": "Inesis Men Solid Grey Tshirt",
+    "attributes": {
+      "color": "Grey",
+      "pattern": "Solid",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 26950,
+    "image_path": "/content/images/labeled_test/26950.jpg",
+    "productDisplayName": "Jealous 21 Women Printed Maroon T-shirt",
+    "attributes": {
+      "color": "Maroon",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 32769,
+    "image_path": "/content/images/labeled_test/32769.jpg",
+    "productDisplayName": "Music Men Printed Blue T-shirt",
+    "attributes": {
+      "color": "Blue",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 19584,
+    "image_path": "/content/images/labeled_test/19584.jpg",
+    "productDisplayName": "United Colors of Benetton Men Stripes Grey Tshirt",
+    "attributes": {
+      "color": "Grey",
+      "pattern": "Striped",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 20000,
+    "image_path": "/content/images/labeled_test/20000.jpg",
+    "productDisplayName": "United Colors of Benetton Men White Solid T-shirt",
+    "attributes": {
+      "color": "White",
+      "pattern": "Solid",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 14098,
+    "image_path": "/content/images/labeled_test/14098.jpg",
+    "productDisplayName": "Flying Machine Men Printed Blue Tshirts",
+    "attributes": {
+      "color": "Blue",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 31543,
+    "image_path": "/content/images/labeled_test/31543.jpg",
+    "productDisplayName": "Classic Polo Men Striped Navy Blue T-shirt",
+    "attributes": {
+      "color": "Navy Blue",
+      "pattern": "Striped",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 5890,
+    "image_path": "/content/images/labeled_test/5890.jpg",
+    "productDisplayName": "Puma Men's Graphics Story Green T-shirt",
+    "attributes": {
+      "color": "Green",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 19112,
+    "image_path": "/content/images/labeled_test/19112.jpg",
+    "productDisplayName": "Campbell Men Pack of 3 Solid Tshirts",
+    "attributes": {
+      "color": "Grey",
+      "pattern": "Solid",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 31586,
+    "image_path": "/content/images/labeled_test/31586.jpg",
+    "productDisplayName": "Mark Taylor Men Printed Yellow T-shirt",
+    "attributes": {
+      "color": "Yellow",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 6083,
+    "image_path": "/content/images/labeled_test/6083.jpg",
+    "productDisplayName": "UCB Women's Halftone Print Pink T-shirt",
+    "attributes": {
+      "color": "Pink",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 11777,
+    "image_path": "/content/images/labeled_test/11777.jpg",
+    "productDisplayName": "Lee Men Printed Red Tshirts",
+    "attributes": {
+      "color": "Red",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 18236,
+    "image_path": "/content/images/labeled_test/18236.jpg",
+    "productDisplayName": "Manchester United Men Solid White Tshirt",
+    "attributes": {
+      "color": "White",
+      "pattern": "Solid",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 10065,
+    "image_path": "/content/images/labeled_test/10065.jpg",
+    "productDisplayName": "Puma Men ducati logo tee Yellow Tshirts",
+    "attributes": {
+      "color": "Yellow",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  },
+  {
+    "id": 14294,
+    "image_path": "/content/images/labeled_test/14294.jpg",
+    "productDisplayName": "Classic Polo Men Stripes Black Tshirts",
+    "attributes": {
+      "color": "Black",
+      "pattern": "Striped",
+      "neck": "Polo"
+    }
+  },
+  {
+    "id": 6085,
+    "image_path": "/content/images/labeled_test/6085.jpg",
+    "productDisplayName": "UCB Women's Halftone Print White T-shirt",
+    "attributes": {
+      "color": "White",
+      "pattern": "Printed",
+      "neck": "Unknown"
+    }
+  }
+]
